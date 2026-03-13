@@ -1,0 +1,48 @@
+# Dataset files (too large for GitHub)
+dataset/*.jpg
+dataset/*.png
+dataset/call/
+dataset/dislike/
+dataset/fist/
+dataset/four/
+dataset/like/
+dataset/mute/
+dataset/ok/
+dataset/one/
+dataset/palm/
+dataset/peace/
+dataset/peace_inverted/
+dataset/rock/
+dataset/stop/
+dataset/stop_inverted/
+dataset/test/
+dataset/three/
+dataset/three2/
+dataset/two_up/
+dataset/two_up_inverted/
+
+# Trained models (can be large)
+saved_models/*.h5
+saved_models/*.pth
+saved_models/*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
